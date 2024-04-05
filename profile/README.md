@@ -28,8 +28,8 @@ To get started with the Vulture Security Assessment Project, follow these steps:
 
 1. Clone the repositories:
    - [VulTURE_Website](https://github.com/VulTURE-HackByte/Vulture_Website)
-   - [VulTURE_DB](https://github.com/VulTURE-HackByte/vulture_ZAP)
-   - [VulTURE_ZAP](https://github.com/VulTURE-HackByte/Vulture_DB)
+   - [VulTURE_ZAP](https://github.com/VulTURE-HackByte/vulture_ZAP)
+   - [VulTURE_DB](https://github.com/VulTURE-HackByte/Vulture_DB)
 
 2. Set up the necessary dependencies:
    - Ensure you have Node.js, Flask, and other required dependencies installed for each repository.
