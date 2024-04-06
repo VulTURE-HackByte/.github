@@ -1,12 +1,12 @@
 
 ![logo](https://github.com/VulTURE-HackByte/vulture_ZAP/assets/116958420/b4065acc-847f-42a8-af8d-345d36ce0b9c)
 
-## Hi there 👋
+## Hi there !!👋
 Welcome to the VulTURE! This project aims to assist users in evaluating the safety of websites by identifying potential vulnerabilities present within them. With the integration of our tools, users can easily assess the security posture of their websites and take necessary actions to mitigate risks.
 
 ## Project Overview
 
-The Vulture Security Assessment Project comprises three main repositories:
+VulTURE comprises three main repositories:
 
 1. **VulTURE_Website**: This repository contains the frontend code for the website. Built using React, Zustand, and Auth0, the website provides an intuitive interface for users to interact with our tools and view security assessment reports.
 
@@ -24,7 +24,7 @@ The Vulture Security Assessment Project comprises three main repositories:
 
 ## Getting Started
 
-To get started with the Vulture Security Assessment Project, follow these steps:
+To get started with VulTURE, follow these steps:
 
 1. Clone the repositories:
    - [VulTURE_Website](https://github.com/VulTURE-HackByte/Vulture_Website)
