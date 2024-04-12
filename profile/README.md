@@ -1,8 +1,8 @@
-
-![logo](https://github.com/VulTURE-HackByte/vulture_ZAP/assets/116958420/b4065acc-847f-42a8-af8d-345d36ce0b9c)
+![logo](https://github.com/VulTURE-HackByte/.github/assets/116958420/27ba5ad6-9058-4445-914a-3fb69d801def)
 
 ## Hi there !!👋
-Welcome to the VulTURE! This project aims to assist users in evaluating the safety of websites by identifying potential vulnerabilities present within them. With the integration of our tools, users can easily assess the security posture of their websites and take necessary actions to mitigate risks.
+
+Welcome to project VulTURE! This project aims to assist users in evaluating the safety of websites by identifying potential vulnerabilities present within them. With the integration of our tools, users can easily assess the security posture of their websites and take necessary actions to mitigate risks.
 
 ## Project Overview
 
@@ -21,6 +21,9 @@ VulTURE comprises three main repositories:
 - **Vulnerability Analysis**: VulTURE_ZAP helps users identify potential vulnerabilities in target websites, simplifying the process of penetration testing.
 
 - **Seamless Integration**: The three repositories work together seamlessly to provide a unified platform for website security assessment.
+
+## Workflow
+![workflow](https://github.com/VulTURE-HackByte/.github/assets/116958420/8a5c5d94-7229-4b5d-aafc-28652d7d2f29)
 
 ## Getting Started
 
